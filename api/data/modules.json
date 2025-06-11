@@ -1,0 +1,104 @@
+[
+  {
+    "id": "m1.1",
+    "title": "Introduction au Cloud Azure",
+    "description": "Concepts fondamentaux du cloud computing, les modèles de service (IaaS, PaaS, SaaS) et les avantages d'Azure.",
+    "duration": "4 heures"
+  },
+  {
+    "id": "m1.2",
+    "title": "Panorama des services PaaS Azure",
+    "description": "Présentation des principaux services PaaS d'Azure : App Service, Azure SQL Database, Azure Storage, Azure Functions, etc.",
+    "duration": "5 heures"
+  },
+  {
+    "id": "m1.3",
+    "title": "Mise en place d'un environnement de démonstration",
+    "description": "Création et configuration d'un environnement Azure pour les démonstrations pratiques.",
+    "duration": "4 heures"
+  },
+  {
+    "id": "m1.4",
+    "title": "Gestion des environnements multiples",
+    "description": "Stratégies et outils pour gérer efficacement plusieurs environnements (développement, test, production) sur Azure.",
+    "duration": "4 heures"
+  },
+  {
+    "id": "m2.1",
+    "title": "Gestion des identités et des accès (RBAC)",
+    "description": "Mise en œuvre du contrôle d'accès basé sur les rôles (RBAC) pour sécuriser les ressources Azure.",
+    "duration": "5 heures"
+  },
+  {
+    "id": "m2.2",
+    "title": "Sécurisation des secrets avec Azure Key Vault",
+    "description": "Utilisation d'Azure Key Vault pour stocker et gérer de manière sécurisée les clés, secrets et certificats.",
+    "duration": "4 heures"
+  },
+  {
+    "id": "m2.3",
+    "title": "Gouvernance et conformité avec Azure Policy",
+    "description": "Application des politiques Azure pour assurer la conformité et la gouvernance des ressources.",
+    "duration": "4 heures"
+  },
+  {
+    "id": "m2.4",
+    "title": "Audit et surveillance des accès",
+    "description": "Mise en place de l'audit et de la surveillance pour suivre les activités et les accès aux ressources Azure.",
+    "duration": "4 heures"
+  },
+  {
+    "id": "m2.5",
+    "title": "Intégration avec Azure AD Connect",
+    "description": "Synchronisation des identités entre l'Active Directory on-premise et Azure Active Directory.",
+    "duration": "4 heures"
+  },
+  {
+    "id": "m3.1",
+    "title": "Monitoring et alertes avec Azure Monitor",
+    "description": "Utilisation d'Azure Monitor pour collecter, analyser et agir sur les données de télémétrie de vos environnements Azure.",
+    "duration": "5 heures"
+  },
+  {
+    "id": "m3.2",
+    "title": "Analyse des logs avec KQL",
+    "description": "Apprentissage du langage de requête Kusto (KQL) pour interroger les logs dans Azure Log Analytics.",
+    "duration": "5 heures"
+  },
+  {
+    "id": "m3.3",
+    "title": "Création de tableaux de bord personnalisés",
+    "description": "Conception et implémentation de tableaux de bord Azure pour visualiser les métriques et les logs clés.",
+    "duration": "4 heures"
+  },
+  {
+    "id": "m3.4",
+    "title": "Optimisation des coûts Azure",
+    "description": "Stratégies et outils pour analyser et optimiser les dépenses liées à l'utilisation des services Azure.",
+    "duration": "4 heures"
+  },
+  {
+    "id": "m4.1",
+    "title": "Déploiement Continu avec Azure DevOps",
+    "description": "Intégration d'Azure DevOps dans les projets Azure PaaS pour automatiser les déploiements et améliorer la qualité du code.",
+    "duration": "7 heures"
+  },
+  {
+    "id": "m4.2",
+    "title": "Infrastructure as Code (IaC) avec ARM Templates et Bicep",
+    "description": "Principes de l'Infrastructure as Code et l'utilisation d'ARM Templates et Bicep pour déployer des infrastructures Azure reproductibles.",
+    "duration": "8 heures"
+  },
+  {
+    "id": "m4.3",
+    "title": "Fonctions Serverless et Logic Apps",
+    "description": "Développement serverless sur Azure avec Azure Functions et l'automatisation des workflows avec Logic Apps.",
+    "duration": "8 heures"
+  },
+  {
+    "id": "m5.1",
+    "title": "Azure Virtual Networks (VNets)",
+    "description": "Configuration et gestion des réseaux virtuels Azure pour sécuriser et optimiser les services PaaS.",
+    "duration": "8 heures"
+  }
+]
